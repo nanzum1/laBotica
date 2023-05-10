@@ -22,5 +22,5 @@ En este proyecto en particular se propone el diseño de la gestión de la bodega
 ### Desarrollo
 
 <p style="text-align: justify;">
-
+Se plantea una solución lógica que optimizaría los procesos. Se definió una arquitectura con análisis de factibilidad y se optó por la creación de un software de presentación amigable y a la vez seguro en el almacenamiento de datos.
 </p>
