@@ -1,0 +1,60 @@
+/* importacion de letra */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #7d7d7d;
+}
+
+/* Navbar*/
+#navbar{
+    background-color:#FFCC98;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Cuerpo de pagina*/
+#bodyindex{
+    background-color: #1974D3;
+}
+
+/* footer*/
+#footer{
+    background-color:#FFCC98;
+    background-image: url('resources/img/footer.JPG');
+    background-repeat: repeat-x;
+}
+
+#conteiner{
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid;
+    text-align: center;
+    line-height: 100px;
+
+} 
+
+
+@media (min-width: 700px) { 
+            .navbar{
+                    text-align: center;
+                   }
+}
+
+.card-img-top {
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.card-title a:link {
+    font-size: 30px;
+    background-color: transparent;
+    color: #000000;
+    text-decoration: none;
+}
+
+.card-title a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
