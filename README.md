@@ -1,4 +1,4 @@
-# laBotica
+# La Botica
 ### Portafolio
 
 |Desarrollador|GitHub|
@@ -22,7 +22,7 @@ En este proyecto en particular se propone el diseño de la gestión de la bodega
 ### Desarrollo
 
 <p style="text-align: justify;">
-Se plantea una solución lógica que optimizaría los procesos. Se definió una arquitectura con análisis de factibilidad y se optó por la creación de un software de presentación amigable y a la vez seguro en el almacenamiento de datos.
+
 </p>
 
 
@@ -57,4 +57,3 @@ El desarrollo del backend se encuentra en la carpeta java.
 
 /laBotica/src/main/java/ProyectoFinal/laBotica
 </p>
-
